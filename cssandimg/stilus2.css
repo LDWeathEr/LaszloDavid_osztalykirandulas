@@ -1,0 +1,52 @@
+body{
+background-image: url(budapest.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+
+#keret{
+	position: absolute;
+    background-color: coral;
+    box-shadow: 10px -5px 20px 0px rgba(0,0,0,0.5);
+	left: 20%;
+	top: 12%;
+	padding: 3%;
+	width: 60%;
+    color: black;
+    opacity: 0.9;
+}
+
+h1{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    text-decoration: underline;
+    color: black;
+}
+
+h2{
+    font-size: x-large;
+    text-decoration: underline;
+}
+
+a:link {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: black;
+  }
+
+  a:active {
+    color: black;
+  }
+
+.Parlament{
+    width: 100%;
+    height: 100%;
+}
